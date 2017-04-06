@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+#index_body {
+	display: -moz-box; 
+    display: -webkit-box; 
+    display: box;
+    -moz-box-orient:vertical;
+    -webkit-box-orient:vertical;
+    box-orient:vertical;
+}
+
+.div_header {
+	background-color: red;
+	-moz-box-flex: 1; 
+    -webkit-box-flex: 1; 
+    box-flex: 1;
+}
+
+.div_contain {
+	background-color: yellow;
+	-moz-box-flex: 12; 
+    -webkit-box-flex: 12; 
+    box-flex: 12;
+}
+
+.div_footer {
+	background-color: blue;
+ 	-moz-box-flex: 1; 
+    -webkit-box-flex: 1; 
+    box-flex: 1;
+}

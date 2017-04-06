@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+html {
+	font-size: 62.5%;
+	background-color: green;
+	width: 100%;
+	height: 100%;
+	margin: 0em;
+}
+
+body {
+	font-size: 62.5%;
+	background-color: #c72db4;
+	width: 100%;
+	height: 100%;
+	margin: 0rem;
+}
